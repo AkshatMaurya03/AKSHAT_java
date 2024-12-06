@@ -13,9 +13,8 @@ public class fibbonaci {
         System.out.print(b+",");
         for(int i=3;i<=n;i++) {
             c = a + b;
-            if (i == n) {
-                System.out.print(c);
-            } else {
+            if (i == n) System.out.print(c);
+            else {
                 System.out.print(c + ",");
                 //a will become b and b will become c
                 a = b;

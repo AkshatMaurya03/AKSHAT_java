@@ -1,4 +1,4 @@
-package JAVA_topics.Conditionals_ak;
+package Conditionals_ak;
 
 import java.util.Scanner;
 

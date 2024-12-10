@@ -4,7 +4,9 @@ import java.util.Scanner;
 
 public class palindrome {
     public static void main(String[] args) {
+        //Write a function to find if a number is a palindrome or not. Take number as parameter
         Scanner in = new Scanner(System.in);
+        System.out.println("ENTER YOUR NUMBER");
         int number = in.nextInt();
         boolean result= palin(number);
         System.out.println(result);

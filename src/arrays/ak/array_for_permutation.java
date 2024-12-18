@@ -1,4 +1,4 @@
-package arrays_arl.ak;
+package arrays.ak;
 
 import java.util.Arrays;
 
